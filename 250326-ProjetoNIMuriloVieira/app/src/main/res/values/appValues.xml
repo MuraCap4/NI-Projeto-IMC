@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores do Projeto -->
+    <color name="appColor1">#006341</color>
+    <color name="appColor2">#00A859</color>
+    <color name="appColor3">#4D4D4D</color>
+    <color name="appColor4">#B3B3B3</color>
+    <color name="appColor5">#FFFFFF</color>
+
+    <!-- String/Desc da logo da Página 1 do Projeto (MainActivity1)-->
+    <string name="appImgDescLogo">Logo da FECAP</string>
+    <string name="appBtnT1Set">Calculadora IMC</string>
+
+
+    <!-- String das Páginas)-->
+    <string name="btnT2Fechar">Fechar</string>
+    <string name="textT2Resultado">-----</string>
+    <string name="editTextHint1">Digite seu peso (em kg)</string>
+    <string name="editTextHint2">Digite sua altura (em metros)</string>
+    <string name="btnSet">Enviar</string>
+    <string name="btnReset">Limpar</string>
+    
+    <!-- Mensagens de Motivação -->
+    <string name="msgAbaixoPeso">Não se preocupe! Sabemos o quão difícil é ganhar peso!</string>
+    <string name="msgIntervaloNormal">É isso aí! Continue o bom trabalho!</string>
+    <string name="msgSobrepeso">Está tudo bem! Sabemos o quão difícil é perder peso!</string>
+    <string name="msgObesidade1">Está tudo bem! Sabemos que não foi uma escolha, todos nós passamos por momentos difíceis</string>
+    <string name="msgObesidade2">Está tudo bem! Se tem alguém que consegue sair disso é você!</string>
+    <string name="msgObesidade3">Está tudo bem! Basta dar o primeiro passo para ninguém conseguir mais te parar!</string>
+</resources>
